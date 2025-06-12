@@ -8,5 +8,5 @@
 ⚙️ Auto Build (WIP) — Generate structures easily  
 
 📌 **Stay Connected:**  
-🔗 GitHub: [ ]  
+🔗 GitHub [https://github.com/Godfollows/FaithFul-Studio-s-Script]  
 🔗 Discord:[https://discord.gg/En8dwry4Gz]
